@@ -31,7 +31,7 @@ I'm passionate about creating interactive and user-friendly web applications.
 
 ### Connect with me:
 
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram)]([https://t.me/YourTelegram](https://t.me/Zapotichnyi_06))
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram)](https://t.me/Zapotichnyi_06)
 [![Email](https://img.shields.io/badge/-Email-blue?style=flat-square&logo=gmail)](mailto:romanzapotichnyi184@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Zapotichnyi06)
 
