@@ -51,10 +51,7 @@ I'm passionate about creating interactive and user-friendly web applications.
 
 ### Language Proficiency:
 
-- 🇺🇦 **Ukrainian:** Native Speaker
-- 🕊️ **Freedom Russian:** Native Speaker
-- 🇬🇧 **English:** A2
-- 🇫🇷 **French:** A2
+- 🇺🇦 **Ukrainian:** Native Speaker | 🕊️ **Freedom Russian:** Native Speaker | 🇬🇧 **English:** A2 | 🇫🇷 **French:** A2
 
 ### 📈 Language Stats
 
