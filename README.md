@@ -49,8 +49,13 @@ I'm passionate about creating interactive and user-friendly web applications.
 [![Email](https://img.shields.io/badge/-Email-blue?style=flat-square&logo=gmail)](mailto:romanzapotichnyi184@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Zapotichnyi06)
 
+### Language Proficiency:
+
+- 🇺🇦 **Ukrainian:** Native Speaker
+- 🕊️ **Freedom Russian:** Native Speaker
+- 🇬🇧 **English:** A2
+- 🇫🇷 **French:** A2
+
 ### 📈 Language Stats
 
 ![Roman's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Zapotichnyi06&layout=compact&theme=radical)
-
-<!-- You can add more widgets from https://github.com/anuraghazra/github-readme-stats -->
