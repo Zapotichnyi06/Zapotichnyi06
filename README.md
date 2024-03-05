@@ -25,17 +25,18 @@ I'm passionate about creating interactive and user-friendly web applications.
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)](https://getbootstrap.com/)
 [![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)](https://sass-lang.com/)
 [![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)](https://nodejs.org/)
+[![SwiftUI](https://img.shields.io/badge/SwiftUI-orange?style=flat-square&logo=swift)](https://developer.apple.com/documentation/swiftui)
 
 ### Development and Version Control Tools:
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/)
-[![Visual Studio Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
 [![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-black?style=flat-square&logo=intellij-idea)](https://www.jetbrains.com/idea/)
 [![DevTools](https://img.shields.io/badge/-DevTools-black?style=flat-square&logo=chrome)](https://developers.google.com/web/tools/chrome-devtools)
 
 ### Operating Systems:
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)](https://ubuntu.com/)
 [![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)](https://developer.android.com/)
+[![iOS](https://img.shields.io/badge/iOS-blue?style=flat-square&logo=apple)](https://developer.apple.com/ios/)
 
 ### Design Tools:
 [![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)](https://www.figma.com/)
@@ -51,7 +52,7 @@ I'm passionate about creating interactive and user-friendly web applications.
 
 ### Language Proficiency:
 
-- 🇺🇦 **Ukrainian:** Native Speaker | 🕊️ **Freedom Russian:** Native Speaker | 🇬🇧 **English:** A2 | 🇫🇷 **French:** A2
+- 🇺🇦 **Ukrainian:** Native Speaker | 🕊️ **Russian:** Native Speaker | 🇬🇧 **English:** A2 | 🇫🇷 **French:** A2
 
 ### 📈 Language Stats
 
