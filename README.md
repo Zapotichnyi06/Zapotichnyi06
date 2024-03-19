@@ -6,7 +6,7 @@ I'm passionate about creating interactive and user-friendly web applications.
 
 ### About Me
 
-- 🌱 I’m currently learning **React and advanced CSS techniques**
+- 🌱 I’m currently learning **Swift and advanced Java techniques**
 - 👯 I’m looking to collaborate on **web development projects and open-source initiatives**
 - 🤔 I’m looking for help with **advanced JavaScript frameworks**
 - 💬 Ask me about **HTML, CSS, JavaScript, and frontend development**
