@@ -8,6 +8,3 @@
 - ⚡ Fact about me: I enjoy traveling, learning different languages, and writing code
 
 ## Languages used
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
