@@ -9,4 +9,4 @@
 
 ## Languages used
 ### Languages used
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Zapotichnyi06&layout=compact&theme=react" width=40%>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Zapotichnyi&layout=compact&theme=react" width=40%>
