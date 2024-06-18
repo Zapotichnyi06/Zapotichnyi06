@@ -8,5 +8,5 @@
 - ⚡ Fact about me: I enjoy traveling, learning different languages, and writing code
 
 ## Languages used
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+### Languages used
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Zapotichnyi06&layout=compact&theme=react" width=40%>
