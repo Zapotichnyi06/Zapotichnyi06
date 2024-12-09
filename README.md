@@ -9,8 +9,7 @@
 
 ### Works
 
-[1. White Dog shop](https://whitedog.vercel.app)
-
+1. [White Dog shop](https://whitedog.vercel.app)
 
 ### Languages used
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Zapotichnyi&layout=compact&theme=react" width=40%>
