@@ -34,16 +34,16 @@ iOS available · Android coming soon
 
 ## Technologies
 
-- **Languages:** Swift, Kotlin, Java, TypeScript, JavaScript, Python, SQL
-- **iOS:** SwiftUI, UIKit, Combine, AVFoundation, WidgetKit, StoreKit, SceneKit, GameKit
-- **Android:** Jetpack Compose, AndroidX, Kotlin Coroutines, OkHttp, Media3 / ExoPlayer, Coil
-- **Frontend:** React, Next.js, Tailwind CSS, Redux Toolkit, Radix UI, Framer Motion
-- **Backend & real time:** Node.js, Spring Boot, Spring Security, Spring Data JPA, Django, Socket.IO, WebSockets, WebRTC
-- **Databases:** PostgreSQL, MySQL, MariaDB, SQLite
-- **Cloud & storage:** Firebase, Supabase, Neon, S3-compatible object storage
-- **Game servers & networking:** Nukkit, Netty, HikariCP
-- **Build & deployment:** Docker, Docker Compose, Nginx, Gradle, Maven, Vite
-- **Testing & automation:** JUnit, Mockito, StoreKitTest, Puppeteer
+- **Languages:** Swift, Kotlin, Java, TypeScript, Python
+- **iOS:** SwiftUI, UIKit, AVFoundation, WidgetKit, StoreKit, SceneKit
+- **Android:** Jetpack Compose, Kotlin Coroutines, Media3
+- **Frontend:** React, Next.js, Tailwind CSS, Redux Toolkit, Framer Motion
+- **Backend & Real-time:** Spring Boot, Django, Node.js, Socket.IO, WebRTC
+- **Databases:** PostgreSQL, MySQL, SQLite
+- **Cloud & Storage:** Firebase, Supabase, S3
+- **Game Development & Networking:** Nukkit, Netty
+- **DevOps:** Docker, Nginx
+- **Testing:** JUnit, Mockito, Puppeteer
 
 ## Beyond the code
 
