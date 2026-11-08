@@ -32,20 +32,18 @@ I created [Manques](https://manques.app/) around a simple idea: everyday moments
 **[Download on the App Store](https://apps.apple.com/fr/app/manques/id6761126845)** &nbsp;·&nbsp; **[Explore Manques](https://manques.app/)**  
 iOS available · Android coming soon
 
-## Selected projects
-
-| Project | What I built | Technology |
-| :--- | :--- | :--- |
-| [Keyboard Live](https://github.com/Zapotichnyi06/Keyboard-Live) | An iOS keyboard extension for conversational translation, with API keys stored in Keychain. | Swift · SwiftUI |
-| [Lane Rush](https://github.com/Zapotichnyi06/LaneRush) | An iOS arcade racing prototype with 3D scenes, saved progression, and Game Center support. | Swift · UIKit · SceneKit |
-| [WEditorNexora](https://github.com/Zapotichnyi06/WEditorNexora) | A Nukkit world editor with AI-assisted building, previews, undo/redo, and queued world edits. | Java · Nukkit |
-| [Translation AI](https://github.com/Zapotichnyi06/translation-ai) | A web application for multilingual translation and transcription. | TypeScript · React · Next.js |
-
 ## Technologies
 
-- **Mobile:** Swift, SwiftUI, UIKit, SceneKit
-- **Web:** TypeScript, React, Next.js
-- **Backend & tooling:** Java, Spring, Python, Django, Nukkit
+- **Languages:** Swift, Kotlin, Java, TypeScript, JavaScript, Python, SQL
+- **iOS:** SwiftUI, UIKit, Combine, AVFoundation, WidgetKit, StoreKit, SceneKit, GameKit
+- **Android:** Jetpack Compose, AndroidX, Kotlin Coroutines, OkHttp, Media3 / ExoPlayer, Coil
+- **Frontend:** React, Next.js, Tailwind CSS, Redux Toolkit, Radix UI, Framer Motion
+- **Backend & real time:** Node.js, Spring Boot, Spring Security, Spring Data JPA, Django, Socket.IO, WebSockets, WebRTC
+- **Databases:** PostgreSQL, MySQL, MariaDB, SQLite
+- **Cloud & storage:** Firebase, Supabase, Neon, S3-compatible object storage
+- **Game servers & networking:** Nukkit, Netty, HikariCP
+- **Build & deployment:** Docker, Docker Compose, Nginx, Gradle, Maven, Vite
+- **Testing & automation:** JUnit, Mockito, StoreKitTest, Puppeteer
 
 ## Beyond the code
 
